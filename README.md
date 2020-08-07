@@ -1,3 +1,8 @@
+# How to Serve Locally
+- `bundle install`
+- `sudo bundle exec jekyll serve`
+    - will serve at `http://127.0.0.1:4000`
+
 # Minimal Mistakes remote theme starter
 
 Click [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
