@@ -24,6 +24,8 @@ github_username: fwhatley
 minimal_mistakes_skin: dark
 search: true
 
+github: fwhatley/me
+
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
@@ -94,6 +96,7 @@ defaults:
       type: posts
     values:
       layout: single
+      classes: wide
       author_profile: false
       read_time: true
       comments: true
